@@ -1,4 +1,6 @@
 Understanding Brute Force Techniques in Cybersecurity 🔐
+
+/n
 In the realm of cybersecurity, brute force techniques are a fundamental, albeit often inefficient, method for solving problems and cracking codes. Despite their simplicity, they serve as a crucial baseline for understanding more advanced cryptographic and security measures. Here’s a brief overview:
 
 What is a Brute Force Technique?
